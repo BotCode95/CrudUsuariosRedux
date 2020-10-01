@@ -1,0 +1,20 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Patricio D",
+      "apellido": "Bottino",
+      "email": "patribottino95@gmail.com",
+      "telefono": "02302509847",
+      "ciudad": "Intendente Alvear",
+      "id": 1
+    },
+    {
+      "nombre": "Juan M",
+      "apellido": "Soria",
+      "email": "juansoria@gmail.com",
+      "telefono": "02302509847",
+      "ciudad": "Intendente Alvear",
+      "id": 2
+    }
+  ]
+}
