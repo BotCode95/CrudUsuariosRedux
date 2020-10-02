@@ -94,7 +94,7 @@ const EditarUsuario = () => {
                             <div className="form-group">
                                 <label>Telefono</label>
                                 <input 
-                                    type="number"
+                                    type="text"
                                     className="form-control"
                                     placeholder="Telefono"
                                     autoComplete="off"
